@@ -1,0 +1,5 @@
+beautifulsoup4==4.9.3
+requests==2.25.1
+pandas==1.2.4
+pyTelegramBotAPI==4.2.0
+apscheduler==3.7.0
